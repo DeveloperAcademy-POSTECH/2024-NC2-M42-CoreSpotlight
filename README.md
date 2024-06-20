@@ -17,7 +17,7 @@ spotlight에서 앱 이름을 검색하면 가장 두드러진 기능 3가지가
 > **Spotlight & Siri의 단축어 기능을 이용해서 라면 종류에 따른 타이머를 쉽고 빠르게 실행하자!** <br/> 
 
 ## 🖼️ Prototype
-<img src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-M42-CoreSpotlight/assets/60493105/2c7a1728-fc30-400d-9284-9e4f00bee3e3">
+<img src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-M42-CoreSpotlight/assets/60493105/2c7a1728-fc30-400d-9284-9e4f00bee3e3"></br>
 App Shortcut용 앱 '라면 타이머'를 만들었습니다.
 Spotlight에서 '라면'을 입력하면 '가장 연관성 높은 항목'에 라면 타이머 앱과 3개의 단축어가 노출됩니다.
 
