@@ -1,4 +1,6 @@
-# 2024-NC2-M0-AugmentedReality
+# 2024-NC2-M42-CoreSpotlight
+![리드미 표지 001](https://github.com/DeveloperAcademy-POSTECH/2024-NC2-M42-CoreSpotlight/assets/167423022/d7c63966-559c-46bd-a2ad-f6d609b52b39)
+
 ## 🎥 Youtube Link
 (추후 만들어진 유튜브 링크 추가)
 
